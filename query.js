@@ -1,3 +1,10 @@
+//first run mongod in one terminal
+//open another terminal
+//run mongo
+
+
+
+
 { "_id" : ObjectId("56b404d9c83e6535d425044a"), "title" : "Fight Club", "writer" : "Chuck Palahniuk", "year" : 1999, "actors" : [ "Brad Pitt", "Edward Norton" ] }
 { "_id" : ObjectId("56b4065ec83e6535d425044b"), "title" : "Pulp Fiction", "writer" : "Quentin Taratino", "year" : 1994, "actors" : [ "John Travolta", "Uma Thurman" ] }
 { "_id" : ObjectId("56b406d1c83e6535d425044c"), "title" : "Inglorious Basterds", "writer" : "Quentin Tarantino", "year" : 2009, "actors" : [ "Brad Pitt", "Diane Kruger", "Eli Roth" ] }
